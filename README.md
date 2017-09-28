@@ -35,8 +35,6 @@ Click on the title of the palette to download<br />
 ![DM-MAN](png/DM-MAN.png)<br />
 [DM-NITE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-NITE.lsdpal)<br />
 ![DM-NITE](png/DM-NITE.png)<br />
-[DM-RED](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-RED.lsdpal)<br />
-![DM-RED](png/DM-RED.png)<br />
 [DM-VERT](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-VERT.lsdpal)<br />
 ![DM-VERT](png/DM-VERT.png)<br />
 [FIRE - Fire](https://github.com/urbster1/lsdpals/raw/master/lsdpal/FIRE%20-%20Fire.lsdpal)<br />

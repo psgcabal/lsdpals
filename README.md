@@ -10,7 +10,7 @@ Click on the title of the palette to download<br />
 [AQX2 - Aquellex v2.0](https://github.com/urbster1/lsdpals/raw/master/lsdpal/AQX2%20-%20Aquellex%20v2.0.lsdpal)<br />
 ![AQX2](png/AQX2.png)<br />
 [AUS - Australian (Special GBC Edition)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/AUS%20%20-%20Australian%20(Special%20GBC%20Edition).lsdpal)<br />
-![HOTD](png/HOTD.png)<br />
+![AUS](png/AUS.png)<br />
 [AZUR - Azure](https://github.com/urbster1/lsdpals/raw/master/lsdpal/AZUR%20-%20Azure.lsdpal)<br />
 ![AZUR](png/AZUR.png)<br />
 [BASC - Basic (C64)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/BASC%20-%20Basic%20(C64).lsdpal)<br />
@@ -41,8 +41,12 @@ Click on the title of the palette to download<br />
 ![DM-VERT](png/DM-VERT.png)<br />
 [FIRE - Fire](https://github.com/urbster1/lsdpals/raw/master/lsdpal/FIRE%20-%20Fire.lsdpal)<br />
 ![FIRE](png/FIRE.png)<br />
+[HOT - Hotdog](https://github.com/urbster1/lsdpals/raw/master/lsdpal/HOTD.lsdpal)<br />
+![HOTD](png/HOTD.png)<br />
 [INDU - Industrial](https://github.com/urbster1/lsdpals/raw/master/lsdpal/INDU%20-%20Industrial.lsdpal)<br />
+![INDU](png/INDU.png)<br />
 [JAM -Jam](https://github.com/urbster1/lsdpals/raw/master/lsdpal/JAM%20-%20Jam.lsdpal)<br />
+![JAM](png/JAM.png)<br />
 [LEOJ-leojisgood](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LEOJ%20-%20leojisgood.lsdpal)<br />
 ![LEOJ](png/LEOJ.png)<br />
 [LIND-Lindenmorsen'sPalette](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LIND%20-%20Lindenmorsen's%20Palette.lsdpal)<br />

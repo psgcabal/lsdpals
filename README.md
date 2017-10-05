@@ -3,6 +3,7 @@ Palettes for use with LSDj (using [LSDPatch](https://github.com/jkotlinski/lsdpa
 Click on the title of the palette to download<br />
 
 <sub>DM palettes provided by [DEFENSE MECHANISM](https://defensemech.com/)</sub><br />
+<sub>Solarized Dark palettes provided by [Eiyeron](https://github.com/Eiyeron)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
 [ACID - Acid (N++)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/ACID%20-%20Acid%20(N++).lsdpal)<br />![ACID](png/ACID.png)<br />
@@ -31,6 +32,8 @@ Click on the title of the palette to download<br />
 [ORNG - Orange](https://github.com/urbster1/lsdpals/raw/master/lsdpal/ORNG%20-%20Orange.lsdpal)<br />![ORNG](png/ORNG.png)<br />
 [PUR2 - Purple 2](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PUR2%20-%20Purple%202.lsdpal)<br />![PUR2](png/PUR2.png)<br />
 [PURP - Purple 1](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PURP%20-%20Purple%201.lsdpal)<br />![PURP](png/PURP.png)<br />
+[SOLD -  Solarized Dark](https://github.com/urbster1/lsdpals/raw/master/lsdpal/SOLD.lsdpal)<br />![SOLD](png/SOLD.png)<br />
+[SLDB - Solarized Dark (BGB)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/SLDB.lsdpal)<br />![SOLD](png/SLDB.png)<br />
 [SUPR - Supernavy (N++)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/SUPR%20-%20Supernavy%20(N++).lsdpal)<br />![SUPR](png/SUPR.png)<br />
 [SWMP - Swamp](https://github.com/urbster1/lsdpals/raw/master/lsdpal/SWMP%20-%20Swamp.lsdpal)<br />![SWMP](png/SWMP.png)<br />
 [UYA - Ratchet & Clank 3 HUD](https://github.com/urbster1/lsdpals/raw/master/lsdpal/UYA%20%20-%20Ratchet%20&%20Clank%203%20HUD.lsdpal)<br />![UYA](png/UYA.png)<br />

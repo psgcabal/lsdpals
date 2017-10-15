@@ -19,6 +19,7 @@ Click on the title of the palette to download<br />
 [DM-COOL](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-COOL.lsdpal)<br />![DM-COOL](png/DM-COOL.png)<br />
 [DM-DMGB](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-DMGB.lsdpal)<br />![DM-DMGB](png/DM-DMGB.png)<br />
 [DM-FIRE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-FIRE.lsdpal)<br />![DM-FIRE](png/DM-FIRE.png)<br />
+[DM-GOOD](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-GOOD.lsdpal)<br />![DM-GOOD](png/DM-GOOD.png)<br />
 [DM-MAN](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-MAN.lsdpal)<br />![DM-MAN](png/DM-MAN.png)<br />
 [DM-NITE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-NITE.lsdpal)<br />![DM-NITE](png/DM-NITE.png)<br />
 [DM-VERT](https://github.com/urbster1/lsdpals/raw/master/lsdpal/DM-VERT.lsdpal)<br />![DM-VERT](png/DM-VERT.png)<br />

@@ -3,6 +3,7 @@ Palettes for use with LSDj (using [LSDPatch](https://github.com/jkotlinski/lsdpa
 Click on the title of the palette to download<br />
 
 <sub>DM palettes provided by [DEFENSE MECHANISM](https://defensemech.com/)</sub><br />
+<sub>PP palettes provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
 <sub>Solarized Dark palettes provided by [Eiyeron](https://github.com/Eiyeron)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
@@ -31,6 +32,13 @@ Click on the title of the palette to download<br />
 [LIND-Lindenmorsen'sPalette](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LIND%20-%20Lindenmorsen's%20Palette.lsdpal)<br />![LIND](png/LIND.png)<br />
 [LOCK - Ratchet & Clank 2 HUD](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LOCK%20-%20Ratchet%20&%20Clank%202%20HUD.lsdpal)<br />![LOCK](png/LOCK.png)<br />
 [ORNG - Orange](https://github.com/urbster1/lsdpals/raw/master/lsdpal/ORNG%20-%20Orange.lsdpal)<br />![ORNG](png/ORNG.png)<br />
+[PP-BLUE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-BLUE.lsdpal)<br />![PP-BLUE](png/PP-BLUE.png)<br />
+[PP-DUSK](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-DUSK.lsdpal)<br />![PP-DUSK](png/PP-DUSK.png)<br />
+[PP-GRYF - Gryffindor](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-GRYF.lsdpal)<br />![PP-GRYF](png/PP-GRYF.png)<br />
+[PP-HUFF - Hufflepuff](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-HUFF.lsdpal)<br />![PP-HUFF](png/PP-HUFF.png)<br />
+[PP-LITE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-LITE.lsdpal)<br />![PP-LITE](png/PP-LITE.png)<br />
+[PP-RAVN - Ravenclaw](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-RAVN.lsdpal)<br />![PP-RAVN](png/PP-RAVN.png)<br />
+[PP-SLYT - Slytherin](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-SLYT.lsdpal)<br />![PP-SLYT](png/PP-SLYT.png)<br />
 [PUR2 - Purple 2](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PUR2%20-%20Purple%202.lsdpal)<br />![PUR2](png/PUR2.png)<br />
 [PURP - Purple 1](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PURP%20-%20Purple%201.lsdpal)<br />![PURP](png/PURP.png)<br />
 [SOLD -  Solarized Dark](https://github.com/urbster1/lsdpals/raw/master/lsdpal/SOLD.lsdpal)<br />![SOLD](png/SOLD.png)<br />

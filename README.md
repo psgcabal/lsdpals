@@ -5,6 +5,7 @@ Click on the title of the palette to download<br />
 <sub>DM palettes provided by [DEFENSE MECHANISM](https://defensemech.com/)</sub><br />
 <sub>PP palettes provided by [Pain Perdu](https://soundcloud.com/pain-perdu)</sub><br />
 <sub>Solarized Dark palettes provided by [Eiyeron](https://github.com/Eiyeron)</sub><br />
+<sub>MAG1 palette provided by [tobokegao](https://twitter.com/to6okegao)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
 [ACID - Acid (N++)](https://github.com/urbster1/lsdpals/raw/master/lsdpal/ACID%20-%20Acid%20(N++).lsdpal)<br />![ACID](png/ACID.png)<br />
@@ -31,6 +32,7 @@ Click on the title of the palette to download<br />
 [LEOJ-leojisgood](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LEOJ%20-%20leojisgood.lsdpal)<br />![LEOJ](png/LEOJ.png)<br />
 [LIND-Lindenmorsen'sPalette](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LIND%20-%20Lindenmorsen's%20Palette.lsdpal)<br />![LIND](png/LIND.png)<br />
 [LOCK - Ratchet & Clank 2 HUD](https://github.com/urbster1/lsdpals/raw/master/lsdpal/LOCK%20-%20Ratchet%20&%20Clank%202%20HUD.lsdpal)<br />![LOCK](png/LOCK.png)<br />
+[MAG1](https://github.com/urbster1/lsdpals/raw/master/lsdpal/MAG1.lsdpal)<br />![MAG1](png/MAG1.png)<br />
 [ORNG - Orange](https://github.com/urbster1/lsdpals/raw/master/lsdpal/ORNG%20-%20Orange.lsdpal)<br />![ORNG](png/ORNG.png)<br />
 [PP-BLUE](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-BLUE.lsdpal)<br />![PP-BLUE](png/PP-BLUE.png)<br />
 [PP-DUSK](https://github.com/urbster1/lsdpals/raw/master/lsdpal/PP-DUSK.lsdpal)<br />![PP-DUSK](png/PP-DUSK.png)<br />

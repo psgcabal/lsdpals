@@ -29,7 +29,7 @@ Click on the title of the palette to download<br />
 [DM-MAN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-MAN.lsdpal)<br />![DM-MAN](png/DM-MAN.png)<br />
 [DM-MINT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-MINT.lsdpal)<br />![DM-MINT](png/DM-MINT.png)<br />
 [DM-NITE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-NITE.lsdpal)<br />![DM-NITE](png/DM-NITE.png)<br />
-[DM-SWET](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-SWET.lsdpal)<br />![DM-SWET](png/DM-SWET.Png)<br />
+[DM-SWET](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-SWET.lsdpal)<br />![DM-SWET](png/DM-SWET.png)<br />
 [DM-VERT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-VERT.lsdpal)<br />![DM-VERT](png/DM-VERT.png)<br />
 [DM-WMLN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-WMLN.lsdpal)<br />![DM-WMLN](png/DM-WMLN.png)<br />
 [FIRE - Fire](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/FIRE%20-%20Fire.lsdpal)<br />![FIRE](png/FIRE.png)<br />

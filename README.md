@@ -1,5 +1,5 @@
 # LSDPals
-Palettes for use with LSDj (using [LSDPatch](https://github.com/jkotlinski/lsdpatch)).<br />
+Palettes for use with LSDj (using [LSDPatch](https://github.com/Eiyeron/lsdpatch/releases)).<br />
 Click on the title of the palette to download<br />
 
 <sub>DM palettes provided by [DEFENSE MECHANISM](https://defensemech.com/)</sub><br />
@@ -7,8 +7,17 @@ Click on the title of the palette to download<br />
 <sub>Solarized Dark palettes provided by [Eiyeron](https://github.com/Eiyeron)</sub><br />
 <sub>MAG1 palette provided by [tobokegao](https://twitter.com/to6okegao)</sub><br />
 <sub>OPTI palette provided by Andrew Soper</sub><br />
+<sub>0D palettes provided by [0nlineDating](https://chipmusic.org/0nlineDating)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
+[0D-BLOO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-BLOO.lsdpal)<br />![0D-BLOO](png/0D-BLOO.png)<br />
+[0D-GREN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-GREN.lsdpal)<br />![0D-GREN](png/0D-GREN.png)<br />
+[0D-PNKO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-PNKO.lsdpal)<br />![0D-PNKO](png/0D-PNKO.png)<br />
+[0D-PNKR](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-PNKR.lsdpal)<br />![0D-PNKR](png/0D-PNKR.png)<br />
+[0D-PRP3](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-PRP3.lsdpal)<br />![0D-PRP3](png/0D-PRP3.png)<br />
+[0D-RGBY](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-RGBY.lsdpal)<br />![0D-RGBY](png/0D-RGBY.png)<br />
+[0D-TRNS](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-TRNS.lsdpal)<br />![0D-TRNS](png/0D-TRNS.png)<br />
+[0D-W98](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-W98.lsdpal)<br />![0D-W98](png/0D-W98.png)<br />
 [ACID - Acid (N++)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/ACID%20-%20Acid%20(N++).lsdpal)<br />![ACID](png/ACID.png)<br />
 [AQX2 - Aquellex v2.0](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/AQX2%20-%20Aquellex%20v2.0.lsdpal)<br />![AQX2](png/AQX2.png)<br />
 [AUS - Australian (Special GBC Edition)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/AUS%20%20-%20Australian%20(Special%20GBC%20Edition).lsdpal)<br />![AUS](png/AUS.png)<br />

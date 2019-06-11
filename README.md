@@ -27,18 +27,24 @@ Click on the title of the palette to download<br />
 [CARN - Carnival](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/CARN%20-%20Carnival.lsdpal)<br />![CARN](png/CARN.png)<br />
 [CNDY - Candy](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/CNDY%20-%20Candy.lsdpal)<br />![CNDY](png/CNDY.png)<br />
 [DM-BLUE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-BLUE.lsdpal)<br />![DM-BLUE](png/DM-BLUE.png)<br />
+[DM-BORT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-BORT.lsdpal)<br />![DM-BORT](png/DM-BORT.png)<br />
 [DM-COLD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-COLD.lsdpal)<br />![DM-COLD](png/DM-COLD.png)<br />
 [DM-COLR](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-COLR.lsdpal)<br />![DM-COLR](png/DM-COLR.png)<br />
 [DM-COOL](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-COOL.lsdpal)<br />![DM-COOL](png/DM-COOL.png)<br />
 [DM-DANK](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-DANK.lsdpal)<br />![DM-DANK](png/DM-DANK.png)<br />
+[DM-DEAT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-DEAT.lsdpal)<br />![DM-DEAT](png/DM-DEAT.png)<br />
 [DM-DINK](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-DINK.lsdpal)<br />![DM-DINK](png/DM-DINK.png)<br />
 [DM-DMGB](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-DMGB.lsdpal)<br />![DM-DMGB](png/DM-DMGB.png)<br />
 [DM-DONK](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-DONK.lsdpal)<br />![DM-DONK](png/DM-DONK.png)<br />
+[DM-FINE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-FINE.lsdpal)<br />![DM-FINE](png/DM-FINE.png)<br />
 [DM-FIRE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-FIRE.lsdpal)<br />![DM-FIRE](png/DM-FIRE.png)<br />
 [DM-GOOD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-GOOD.lsdpal)<br />![DM-GOOD](png/DM-GOOD.png)<br />
 [DM-MAN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-MAN.lsdpal)<br />![DM-MAN](png/DM-MAN.png)<br />
+[DM-MILD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-MILD.lsdpal)<br />![DM-MILD](png/DM-MILD.png)<br />
 [DM-MINT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-MINT.lsdpal)<br />![DM-MINT](png/DM-MINT.png)<br />
 [DM-NITE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-NITE.lsdpal)<br />![DM-NITE](png/DM-NITE.png)<br />
+[DM-PLUM](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-PLUM.lsdpal)<br />![DM-PLUM](png/DM-PLUM.png)<br />
+[DM-ROOM](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-ROOM.lsdpal)<br />![DM-ROOM](png/DM-ROOM.png)<br />
 [DM-SWET](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-SWET.lsdpal)<br />![DM-SWET](png/DM-SWET.png)<br />
 [DM-VERT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-VERT.lsdpal)<br />![DM-VERT](png/DM-VERT.png)<br />
 [DM-WMLN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-WMLN.lsdpal)<br />![DM-WMLN](png/DM-WMLN.png)<br />

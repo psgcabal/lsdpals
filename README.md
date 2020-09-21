@@ -10,6 +10,8 @@ Click on the title of the palette to download<br />
 <sub>0D palettes provided by [0nlineDating](https://chipmusic.org/0nlineDating)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
+You might also be interested in the [LSDJ Random Palette Generator](https://github.com/urbster1/lsdj-palette-gen/releases)
+
 [0D-BLOO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-BLOO.lsdpal)<br />![0D-BLOO](png/0D-BLOO.png)<br />
 [0D-GREN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-GREN.lsdpal)<br />![0D-GREN](png/0D-GREN.png)<br />
 [0D-PNKO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/0D-PNKO.lsdpal)<br />![0D-PNKO](png/0D-PNKO.png)<br />

@@ -1,5 +1,5 @@
 # LSDPals
-Palettes for use with LSDj (using [LSDPatch](https://github.com/Eiyeron/lsdpatch/releases)).<br />
+Palettes for use with LSDj (using [LSDPatch](https://github.com/jkotlinski/lsdpatch/releases)).<br />
 Click on the title of the palette to download<br />
 
 <sub>DM palettes provided by [DEFENSE MECHANISM](https://defensemech.com/)</sub><br />

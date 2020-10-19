@@ -8,6 +8,8 @@ Click on the title of the palette to download<br />
 <sub>MAG1 palette provided by [tobokegao](https://twitter.com/to6okegao)</sub><br />
 <sub>OPTI palette provided by Andrew Soper</sub><br />
 <sub>0D palettes provided by [0nlineDating](https://chipmusic.org/0nlineDating)</sub><br />
+<sub>QT palettes provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
+<sub>NORD palette provided by [Zeinok](https://twitter.com/Zein0k)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
 You might also be interested in the [LSDJ Palette Generator](https://defensemech.com/palette)
@@ -65,6 +67,7 @@ You might also be interested in the [LSDJ Palette Generator](https://defensemech
 [LIND-Lindenmorsen'sPalette](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/LIND%20-%20Lindenmorsen's%20Palette.lsdpal)<br />![LIND](png/LIND.png)<br />
 [LOCK - Ratchet & Clank 2 HUD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/LOCK%20-%20Ratchet%20&%20Clank%202%20HUD.lsdpal)<br />![LOCK](png/LOCK.png)<br />
 [MAG1](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/MAG1.lsdpal)<br />![MAG1](png/MAG1.png)<br />
+[NORD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/NORD.lsdpal)<br />![NORD](png/NORD.png)<br />
 [ORNG - Orange](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/ORNG%20-%20Orange.lsdpal)<br />![ORNG](png/ORNG.png)<br />
 [OPTI](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/OPTI.lsdpal)<br />![OPTI](png/OPTI.png)<br />
 [PP-BLUE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/PP-BLUE.lsdpal)<br />![PP-BLUE](png/PP-BLUE.png)<br />
@@ -76,6 +79,12 @@ You might also be interested in the [LSDJ Palette Generator](https://defensemech
 [PP-SLYT - Slytherin](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/PP-SLYT.lsdpal)<br />![PP-SLYT](png/PP-SLYT.png)<br />
 [PUR2 - Purple 2](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/PUR2%20-%20Purple%202.lsdpal)<br />![PUR2](png/PUR2.png)<br />
 [PURP - Purple 1](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/PURP%20-%20Purple%201.lsdpal)<br />![PURP](png/PURP.png)<br />
+[QT-DETRITUS](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-DETRITUS.lsdpal)<br />![QT-DETRITUS](png/QT-DETRITUS.png)<br />
+[QT-FALL](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-FALL.lsdpal)<br />![QT-FALL](png/QT-FALL.png)<br />
+[QT-GREEN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-GREEN.lsdpal)<br />![QT-GREEN](png/QT-GREEN.png)<br />
+[QT-HOLLOW](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-HOLLOW.lsdpal)<br />![QT-HOLLOW](png/QT-HOLLOW.png)<br />
+[QT-MONO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-MONO.lsdpal)<br />![QT-MONO](png/QT-MONO.png)<br />
+[QT-POND](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-POND.lsdpal)<br />![QT-POND](png/QT-POND.png)<br />
 [SOLD -  Solarized Dark](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SOLD.lsdpal)<br />![SOLD](png/SOLD.png)<br />
 [SLDB - Solarized Dark (BGB)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SLDB.lsdpal)<br />![SOLD](png/SLDB.png)<br />
 [SUPR - Supernavy (N++)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SUPR%20-%20Supernavy%20(N++).lsdpal)<br />![SUPR](png/SUPR.png)<br />

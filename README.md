@@ -10,6 +10,7 @@ Click on the title of the palette to download<br />
 <sub>0D palettes provided by [0nlineDating](https://chipmusic.org/0nlineDating)</sub><br />
 <sub>QT palettes provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>NORD palette provided by [Zeinok](https://twitter.com/Zein0k)</sub><br />
+<sub>Neato palette provided by [jkotlinski](https://github.com/jkotlinski)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
 You might also be interested in the [LSDJ Palette Generator](https://defensemech.com/palette)
@@ -67,6 +68,7 @@ You might also be interested in the [LSDJ Palette Generator](https://defensemech
 [LIND-Lindenmorsen'sPalette](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/LIND%20-%20Lindenmorsen's%20Palette.lsdpal)<br />![LIND](png/LIND.png)<br />
 [LOCK - Ratchet & Clank 2 HUD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/LOCK%20-%20Ratchet%20&%20Clank%202%20HUD.lsdpal)<br />![LOCK](png/LOCK.png)<br />
 [MAG1](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/MAG1.lsdpal)<br />![MAG1](png/MAG1.png)<br />
+[Neato](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/neato.lsdpal)<br />![Neato](png/neato.png)<br />
 [NORD](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/NORD.lsdpal)<br />![NORD](png/NORD.png)<br />
 [ORNG - Orange](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/ORNG%20-%20Orange.lsdpal)<br />![ORNG](png/ORNG.png)<br />
 [OPTI](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/OPTI.lsdpal)<br />![OPTI](png/OPTI.png)<br />

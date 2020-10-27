@@ -57,6 +57,7 @@ You might also be interested in the [LSDJ Palette Generator](https://defensemech
 [DM-PEPS](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-PEPS.lsdpal)<br />![DM-PEPS](png/DM-PEPS.png)<br />
 [DM-PLUM](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-PLUM.lsdpal)<br />![DM-PLUM](png/DM-PLUM.png)<br />
 [DM-ROOM](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-ROOM.lsdpal)<br />![DM-ROOM](png/DM-ROOM.png)<br />
+[DM-SYNTH](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SYNTH.lsdpal)<br />![DM-SYNTH](png/SYNTH.png)<br />
 [DM-SWET](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-SWET.lsdpal)<br />![DM-SWET](png/DM-SWET.png)<br />
 [DM-VERT](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-VERT.lsdpal)<br />![DM-VERT](png/DM-VERT.png)<br />
 [DM-WMLN](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/DM-WMLN.lsdpal)<br />![DM-WMLN](png/DM-WMLN.png)<br />

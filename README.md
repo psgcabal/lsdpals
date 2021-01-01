@@ -11,6 +11,7 @@ Click on the title of the palette to download<br />
 <sub>QT palettes provided by [quantumtui](https://twitter.com/quantumtui)</sub><br />
 <sub>NORD palette provided by [Zeinok](https://twitter.com/Zein0k)</sub><br />
 <sub>Neato palette provided by [jkotlinski](https://github.com/jkotlinski)</sub><br />
+<sub>RVN palettes provided by [Ravancloak](https://ravancloak.bandcamp.com/)</sub><br />
 <sub>All other palettes provided by [Aquellex](https://soundcloud.com/aquellex)</sub><br />
 
 You might also be interested in the [LSDJ Palette Generator](https://defensemech.com/palette)
@@ -88,6 +89,8 @@ You might also be interested in the [LSDJ Palette Generator](https://defensemech
 [QT-HOLLOW](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-HOLLOW.lsdpal)<br />![QT-HOLLOW](png/QT-HOLLOW.png)<br />
 [QT-MONO](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-MONO.lsdpal)<br />![QT-MONO](png/QT-MONO.png)<br />
 [QT-POND](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/QT-POND.lsdpal)<br />![QT-POND](png/QT-POND.png)<br />
+[RVN-DARK](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/RVN-DARK.lsdpal)<br />![RVN-DARK](png/RDRK.png)<br />
+[RVN-LITE](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/RVN-LITE.lsdpal)<br />![RVN-LITE](png/RLIT.png)<br />
 [SOLD -  Solarized Dark](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SOLD.lsdpal)<br />![SOLD](png/SOLD.png)<br />
 [SLDB - Solarized Dark (BGB)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SLDB.lsdpal)<br />![SOLD](png/SLDB.png)<br />
 [SUPR - Supernavy (N++)](https://github.com/psgcabal/lsdpals/raw/master/lsdpal/SUPR%20-%20Supernavy%20(N++).lsdpal)<br />![SUPR](png/SUPR.png)<br />
